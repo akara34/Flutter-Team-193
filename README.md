@@ -7,8 +7,8 @@ Takım 193
 ## Takım Elemanları
 
 - Abbas Karaduman: Product Owner
-- Mehmetcan Samet Kır: Scrum Master
-- Hayrunnisa Bıyıklı: Team Member/Developer
+- Mehmetcan Samet Kır: Scrum Master/UI-UX Designer
+- Hayrunnisa Bıyıklı: Team Member/Developer/Idea Owner
 - Emirhan Küçük: Team Member/Developer
 - Nezire Tosun: Team Member/Developer
 
@@ -61,8 +61,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+  ![Screenshot 1](https://github.com/Krmzkk/Flutter-Team-193/blob/main/App%20Screenshot%20V2/Kay%C4%B1t.png?raw=true)
+  ![Screenshot 2](https://github.com/Krmzkk/Flutter-Team-193/blob/main/App%20Screenshot%20V2/Giris.png?raw=true)
+  ![Screenshot 3](https://github.com/Krmzkk/Flutter-Team-193/blob/main/App%20Screenshot%20V2/Ana%20ekran.png?raw=true)
+  ![Screenshot 4](https://github.com/Krmzkk/Flutter-Team-193/blob/main/App%20Screenshot%20V2/Profil.png?raw=true)
 
 - **Sprint Review**: 
 Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
