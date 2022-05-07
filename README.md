@@ -14,26 +14,26 @@ Takım 193
 
 ## Ürün İsmi
 
---Movie App--
+###   Cafind
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- İnsanlar bazen gitmek istedikleri kafeyi seçmekte bazen de kendilerine yakın kafeleri bulmakta zorlanıyor. Cafind uygulamamız ile insanların gitmek istediği tarzda kafeleri onların istedikleri konumlara göre listeleyeceğiz ve daha kolay karar vermelerini sağlayacağız. Uygulamamız aynı zamanda ruh halinize göre kafe önerilerinde bulunacak ve sizlere kafeleri puanlama fırsatı da verecek.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+-	Kafeleri türlerine göre ayırma
+-	İstenilen konuma göre kafe bulma
+-	Kullanıcılara kafe puanlama imkânı verme
+-	Ruh halinize göre kafe önerme
+
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Farklı tarzda kafeler keşfetmek isteyenler
+- Kafe tercihi konusunda sorun yaşayanlar
+-	Konuma göre kafeleri öğrenmek isteyenler
+
 
 ## Product Backlog URL
 
