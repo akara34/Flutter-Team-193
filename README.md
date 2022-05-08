@@ -43,7 +43,7 @@ Takım 193
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**: Aktif olarak Trello kullanılıyordu ancak 08.05.22 de Miroya geçmemizin uygun olacağı söylendi yeterli zaman olmadığı için sonraki sprintte Miroya geçilecek.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
@@ -67,12 +67,14 @@ Takım 193
   ![Screenshot 4](https://github.com/Krmzkk/Flutter-Team-193/blob/main/App%20Screenshot%20V2/Profil.png?raw=true)
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Verilerin elle girilmesi yerine googledan çekilmesinin daha kolay olacağına karar verildi. Uygulama arayüzü tasarlandı ancak arayüzde kullanılacak renklerin daha uygun bir paletle güncellenmesi sonraki sprinte bırakıldı. Özelliklere nelerin eklenebileceği ve uygulamanın gelecekti durumu planlandı.
+Sprint Review katılımcıları: Abbas Karaduman, Mehmetcan Samet Kır, Hayrunisa Bıyıklı, Emirhan Küçük, Nezire Tosun
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Takım içi iletişim güçlendirilmeli
+  - Takım içinde görev dağılımlarının daha net bir şekilde yapılmasına karar verildi
+  - User stories ve puanlamalar gözden geçirilmeli ve yapılmalı
+  - Flutter uygulamasının kodlama kısmına hız verilmeli
 
 -**Diğer Notlar**:
 - N/A
