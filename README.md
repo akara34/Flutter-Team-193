@@ -6,9 +6,9 @@ Takım 193
 
 ## Takım Elemanları
 
-- Abbas Karaduman: Product Owner
+- Hayrunnisa Bıyıklı: Product Owner
 - Mehmetcan Samet Kır: Scrum Master/UI-UX Designer
-- Hayrunnisa Bıyıklı: Team Member/Developer/Idea Owner
+- Abbas Karaduman: Team Member/Developer
 - Emirhan Küçük: Team Member/Developer
 - Nezire Tosun: Team Member/Developer
 
@@ -43,11 +43,13 @@ Takım 193
 
 # Sprint 1
 
-- **Sprint Notları**: Aktif olarak Trello kullanılıyordu ancak 08.05.22 de Miroya geçmemizin uygun olacağı söylendi yeterli zaman olmadığı için sonraki sprintte Miroya geçilecek.
+- **Sprint Notları**:
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 40 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 40 ile başlaması gerektiğine karar verildi.
+- Sprint 1: 40 puan, Sprint 2: 30 puan, Sprint 3: 30 puan 
+
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
