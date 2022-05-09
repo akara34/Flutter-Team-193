@@ -56,7 +56,7 @@ Takım 193
 - **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/Krmzkk/Flutter-Team-193/blob/main/Project%20Management/Sprint1Documents/Meeting%20Chat.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/Krmzkk/Flutter-Team-193/blob/main/Project%20Management/Sprint1Documents/Sprint%20-%201%20Trello.png?raw=true)
+![Backlog 1](https://github.com/akara34/Flutter-Team-193/blob/main/Project%20Management/Sprint1Documents/Sprint1%20Trello.png?raw=true)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
