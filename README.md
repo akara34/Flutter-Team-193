@@ -85,6 +85,23 @@ Sprint Review katılımcıları: Abbas Karaduman, Mehmetcan Samet Kır, Hayrunis
 
 # Sprint 2
 
+- **Sprint Notları**: GÖREV DAĞILIMI YAPILDI ANCAK KİMSE GÖREVİNİ YERİNE GETİRMEDİĞİ İÇİN BU SPRİNT HERHANGİ BİR ÇALIŞMA YAPILMAMIŞ OLDU VE HEDEFLENEN PUANA ULAŞMAMIŞ OLDUK. DURUM AKADEMİYE BİLDİRİLDİ CEVAP BEKLENİYOR.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 30 Puan
+- **Sprint içinde tamamlanan puan**: 0 Puan
+
+- **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/akara34/Flutter-Team-193/blob/main/Project%20Management/Sprint2Documents/Meeting%20Chats.docx)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/akara34/Flutter-Team-193/blob/main/Project%20Management/Sprint2Documents/Sprint2trello.PNG?raw=true)
+
+- **Sprint Review**: 
+ Takımın görev bilincinde olup işlerini ciddiye almaları gerekli.
+
+- **Sprint Retrospective:**
+  Toplantı YAPILAMADI
+
+
 
 ---
 
