@@ -6,11 +6,10 @@ Takım 193
 
 ## Takım Elemanları
 
-- Hayrunnisa Bıyıklı: Product Owner
-- Mehmetcan Samet Kır: Scrum Master/UI-UX Designer
-- Abbas Karaduman: Team Member/Developer
-- Emirhan Küçük: Team Member/Developer
-- Nezire Tosun: Team Member/Developer
+- Hayrunnisa Bıyıklı: Product Owner/Developer
+- Mehmetcan Samet Kır: Scrum Master/Developer
+
+
 
 ## Ürün İsmi
 
@@ -93,7 +92,7 @@ Sprint Review katılımcıları: Abbas Karaduman, Mehmetcan Samet Kır, Hayrunis
 - **Daily Scrum**: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/akara34/Flutter-Team-193/blob/main/Project%20Management/Sprint2Documents/Meeting%20Chats.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/akara34/Flutter-Team-193/blob/main/Project%20Management/Sprint2Documents/Sprint2trello.PNG?raw=true)
+![Backlog 1](https://github.com/Krmzkk/BootcampScrumTemplate/blob/main/Project%20Management/Sprint2Documents/Sprint2trello.PNG?raw=true)
 
 - **Sprint Review**: 
  Takımın görev bilincinde olup işlerini ciddiye almaları gerekli.
